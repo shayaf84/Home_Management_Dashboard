@@ -1,5 +1,4 @@
 # Shaya Farahmand
-# Year 9 - TDJ20-1
 # Home Maintenance Dashboard
 
 # Imports the necessary packages that will be use
